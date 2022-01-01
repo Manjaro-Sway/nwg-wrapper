@@ -7,7 +7,7 @@ pkgver=0.0.2
 >>>>>>> 82e55c3 (chore: bump to 0.0.2)
 pkgrel=1
 pkgdesc="Wrapper to display a script output or a text file content on the desktop in sway or other wlroots-based compositors"
-arch=('x86_64')
+arch=('any')
 url="https://github.com/nwg-piotr/nwg-wrapper"
 license=('MIT')
 depends=('python' 'python-gobject' 'python-i3ipc' 'gtk3' 'gtk-layer-shell')
